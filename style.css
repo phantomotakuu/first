@@ -18,5 +18,15 @@ img {
 #header {
   position: fixed;
   top: 30px;
+  bottom: 15px;
   right: 20px;
 }
+
+#neku {
+  width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
