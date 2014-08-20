@@ -12,15 +12,11 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: left;
 }
 
 header {
   position: fixed;
   top: 30px;
   right: 5px;
-}
-
-neku {
-  float: left;
-  margin: 5px;
 }
