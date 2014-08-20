@@ -16,10 +16,9 @@ img {
 }
 
 #neku {
-  top: 40px;
+  bottom: 40px;
 }
 
 #header {
   position: fixed;
-  bottom: 100px;
 }
