@@ -18,3 +18,7 @@ img {
 #neku {
   top: 40px;
 }
+
+#header {
+  position: fixed;
+}
