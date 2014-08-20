@@ -15,7 +15,7 @@ img {
   float: right;
 }
 
-header {
+#header {
   position: fixed;
   top: 30px;
   right: 100px;
