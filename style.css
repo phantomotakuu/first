@@ -15,17 +15,6 @@ img {
   float: right;
 }
 
-#header {
-  position: fixed;
-  top: 30px;
-  bottom: 30px;
-}
-
 #neku {
-  width: 15%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
+  top: 40px;
 }
-
