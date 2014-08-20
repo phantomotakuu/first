@@ -19,3 +19,8 @@ header {
   top: 30px;
   right: 5px;
 }
+
+neku {
+  float: left;
+  margin: 5px;
+}
