@@ -8,6 +8,7 @@ body {
 
 img {
   width: 15%;
- position: absolute;
- right: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
