@@ -21,4 +21,5 @@ img {
 
 #header {
   position: fixed;
+  bottom: 100px;
 }
