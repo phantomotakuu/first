@@ -23,3 +23,7 @@ img {
 content {
   margin: 70px auto;
 }
+
+h3 {
+  float: right;
+}
