@@ -18,7 +18,10 @@ img {
 
 #header {
   position: fixed;
-  margin: 20px auto;
   height: 200px;
   top: 0px;
+}
+
+content {
+  margin: 70px auto;
 }
