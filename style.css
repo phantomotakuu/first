@@ -20,4 +20,5 @@ img {
   position: fixed;
   margin: 20px auto;
   height: 200px;
+  top: 0px;
 }
