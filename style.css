@@ -20,11 +20,8 @@ img {
   position:fixed;
 }
 
-content {
-  margin: 70px auto;
-}
-
 #second {
   float: right;
+  color: FireBrick;
 }
 
