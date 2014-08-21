@@ -18,9 +18,8 @@ img {
 
 #header {
   position:initial;
-  width:100px;
+  width:200px;
   height:100px;
-  background:red;
   left:10px;
   top:100px;
 }
