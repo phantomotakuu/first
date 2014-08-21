@@ -20,6 +20,7 @@ img {
   position:fixed;
   width:200px;
   height:100px;
+  float: right;
 }
 
 content {
