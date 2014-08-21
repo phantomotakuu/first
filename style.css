@@ -27,3 +27,7 @@ content {
 #second {
   float: right;
 }
+
+#name {
+  position:fixed;
+}
