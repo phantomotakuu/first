@@ -17,9 +17,12 @@ img {
 }
 
 #header {
-  position: fixed;
-  height: 200px;
-  top: 0px;
+  position:initial;
+  width:100px;
+  height:100px;
+  background:red;
+  left:10px;
+  top:100px;
 }
 
 content {
